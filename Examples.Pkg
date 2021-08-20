@@ -4,4 +4,7 @@ from,github.com/io-core,
 license,MIT,CP
 doc,suplib,demonstrates programming in Oberon for IO.
 r,[core]/Files,v5.0.0
+p,Examples.Mod,
 p,Course.Mod,
+p,Arithmetic.Mod,
+p,Functions.Mod,
